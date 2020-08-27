@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AGLTest"
+    }
+  },
+  "defaultProject": "AGLTest",
+  "cli": {
+    "analytics": "a5649d4e-4a88-4bd0-83fa-6f84fa0002aa"
+  }
 }
